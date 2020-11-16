@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Input Files to the parser
+*.sql
+
+# Output files of the parser
+*.dump
